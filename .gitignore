@@ -1,0 +1,30 @@
+# Ignore data folder
+data/
+
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# TensorFlow & model cache
+*.h5
+*.hdf5
+*.ckpt
+
+# Node modules for React
+frontend/node_modules/
+backend/node_modules/
+
+# Build artifacts
+frontend/build/
+backend/dist/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
