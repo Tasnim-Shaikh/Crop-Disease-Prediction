@@ -30,7 +30,7 @@ _____________________________________________________________
 🌾 Supports multiple crop categories and diseases
 🔌 Easy REST API integration for frontend applications
 
-___________________________________________________________-
+___________________________________________________________
 🧠 Tech Stack
 
 Model: TensorFlow, Keras (Custom CNN model)
@@ -66,3 +66,4 @@ Shivani Ippar
 Sana Khan
 
 ________________________________________________
+
